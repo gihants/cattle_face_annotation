@@ -4,4 +4,5 @@ Requirement:
 Annotation of bounding-boxes for two classes:
 1. cattle_body
 2. cattle_face
+
 Please find some examples in annotations_examples.pdf
